@@ -1,5 +1,4 @@
-About
-============================================================================
+About:
 Osmapis is a set of tools for accessing and manipulating OSM data
 via OSM API, Overpass API.
 
@@ -12,5 +11,4 @@ Author:
     Jabber ID: petr@pada.cz
 
 Requirements
-============================================================================
 * Python 2.7 or newer
